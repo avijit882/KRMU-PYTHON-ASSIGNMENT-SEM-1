@@ -1,0 +1,15 @@
+===== DAILY CALORIE TRACKER REPORT =====
+NAME: Avijit
+ROLL NUMBER: 2501730308
+DATE: 2025-11-09 12:35:09.415983
+
+S NOMEAL NAME           CALORIES                 
+----------------------------------------
+1   BREAKFAST           500.0                    
+2   LUNCH               600.0                    
+3   DINNER              900.0                    
+----------------------------------------
+Total Calories Consumed: 2000.0
+Average Calories per Meal: 666.67
+Daily Calorie Limit: 4000.0
+STATUS: You are within your daily calorie limit.
