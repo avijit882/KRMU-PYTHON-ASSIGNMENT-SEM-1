@@ -1,8 +1,8 @@
 import csv
 import os
 
-#Name Avijit                
-#Roll no 2501730308
+#Name Kartik         
+#Roll no 2501730166
 # Assignment 2 
 
 def get_manual_input():
@@ -196,5 +196,5 @@ def main():
             if choice in ['1', '2', '3']:
                 print("No data loaded.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
