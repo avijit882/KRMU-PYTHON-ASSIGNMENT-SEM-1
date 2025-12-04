@@ -1,3 +1,5 @@
+Name:Avijit
+Roll NO.: 2501730308
 # Library Inventory Manager
 
 A command-line based library management system built using **Python OOP**, **JSON persistence**, and **robust exception handling**.
@@ -14,3 +16,4 @@ A command-line based library management system built using **Python OOP**, **JSO
 (See project's root folder)
 
 ## How to Run
+
